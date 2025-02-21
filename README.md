@@ -1,1 +1,1 @@
-# RJ2
+# Atividade RJ2 da matéria de Programação Orientada a Objetos
